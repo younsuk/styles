@@ -4,7 +4,7 @@ div#header h2 { color: #282828; }
 code { color: yellow; }
 .at-wrapper { margin: 18px auto 0; }
 .content .padding { padding: 0 100px 0 0; }
-#container { padding: 5em; }
+#container { padding: 5em; text-rendering: optimizeLegibility; }
 a { text-decoration: none; font-weight: bold; }
 a:link, a:visited { color: #BA1820; }
 a:hover { color: #282828; }
