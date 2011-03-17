@@ -1,0 +1,21 @@
+div#header { margin-bottom: 3em; font-weight: bold; }
+div#header h1 { color: #BA1820; }
+div#header h2 { color: #282828; }
+code { color: yellow; }
+.at-wrapper { margin: 18px auto 0; }
+.content .padding { padding: 0 100px 0 0; }
+#container { padding: 5em; }
+a { text-decoration: none; font-weight: bold; }
+a:link, a:visited { color: #BA1820; }
+a:hover { color: #282828; }
+.item { 
+   margin: 1em;
+   height: 200px; 
+   padding: 3em; 
+   -webkit-box-shadow: 1px 1px 7px rgba(153, 153, 153, 0.2);
+   -moz-box-shadow: 1px 1px 7px rgba(153, 153, 153, 0.2);
+   box-shadow: 1px 1px 7px rgba(153, 153, 153, 0.2);
+   border-radius: 5px;
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+}
