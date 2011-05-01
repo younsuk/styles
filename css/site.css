@@ -1,3 +1,4 @@
+body { background: #E0EEEE; }
 div#header { margin-bottom: 3em; font-weight: bold; }
 div#header h1 { color: #BA1820; }
 div#header h2 { color: #282828; }
@@ -10,6 +11,7 @@ a:link, a:visited { color: #BA1820; }
 a:hover { color: #282828; }
 .item { 
    margin: 1em;
+   background: #F5F5F5;
    height: 200px; 
    padding: 3em; 
    -webkit-box-shadow: 1px 1px 7px rgba(153, 153, 153, 0.2);
