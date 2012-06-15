@@ -53,7 +53,7 @@ dt { font-weight: bold; margin-top: 0.5em; }
 .info-version { text-align: center; font-size: 130%; font-weight: bold; }
 .info-date { text-align: center; font-size: 110%; font-weight: bold; }
 .title { text-align: center; margin: 4em 4em 1em 4em; }
-.subtitle { text-align: center; margin: 1em 4em 4em 4em; }
+.subtitle { text-align: center; margin: 1em 4em 1em 4em; }
 .topic-title { font-weight: bold; font-size: 130%; }
 .contents { margin-bottom: 1em; }
 
