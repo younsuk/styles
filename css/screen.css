@@ -57,7 +57,7 @@ dt { font-weight: bold; margin-top: 0.5em; }
 .topic-title { font-weight: bold; font-size: 130%; }
 .contents { margin-bottom: 1em; }
 
-dl.version-links { background: white; border: none; }
+dl.version-links { background: white; border: none; padding: 0.5em 0.5em 0.5em 6em;}
 
 dl.version-links dt {
   font-weight: bold;
