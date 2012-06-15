@@ -71,7 +71,7 @@ dl.version-links dd ul li {
   list-style: none;
 }
 
-.contributors { margin-left: 250px; margin-top: 1em; margin-bottom: 2em; }
+.contributors { text-align: center; margin-left: 250px; margin-top: 1em; margin-bottom: 2em; }
 dl.contributors { background: white; padding:0em; border: none; }
 .contributors dt { margin: 1em; }
 
