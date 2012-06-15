@@ -124,6 +124,9 @@ a.toc-backref tt.literal .pre {
     background: white;
 }
 
+a.reference tt.literal .pre {
+    background: white;
+}
 
 a:link { color: #636363; font-weight: bold;}
 a:visited { color: #636363; font-weight: bold; }
