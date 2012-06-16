@@ -217,19 +217,24 @@ table.footnote td.label {
   padding-right: 0.3em;
 }
 
+a.external:before {
+  content: url("https://github.com/citation-style-language/documentation/raw/master/media/external-link.png");
+  padding-right: 2px;
+}
+
 a.fn-backref:before {
-  content: url("2uparrow.png");
+  content: url("https://github.com/citation-style-language/documentation/raw/master/media/up-arrow.png");
   padding-right: 2px;
 }
 
 a.footnote-reference {
   background: #ffffdd;
-  padding: 5px 2px 0px 2px;
+  padding: 0px 2px 0px 2px;
   white-space: nowrap;
 }
 
 a.footnote-reference:before {
-  content: url("2downarrow.png");
+  content: url("https://github.com/citation-style-language/documentation/raw/master/media/down-arrow.png");
   padding-right: 2px;
 }
 
